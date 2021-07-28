@@ -1,0 +1,8 @@
+# Node Modules
+node_modules
+# Build webpack
+build
+# Results
+report.html
+result_custom.html
+result.json
