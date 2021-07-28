@@ -29,7 +29,7 @@
   "scripts": {
     "webpack": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "analyze": "node helpers/data_study"
+    "analyze": "node data/data_study"
   },
   "keywords": [
     "k6"
